@@ -39,4 +39,4 @@ jobs:
           app-name: 'lab-GKMM-AzFuncNetworking-func'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_114F28513C094546AA0F7185EF15905E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46DEFB2F4764433292791B6ACABC9115 }}
